@@ -15,7 +15,9 @@ You do not have to install Lexos; you can access a hosted version at the link ab
 Lexos uses the Python programming language, which must also be installed on your computer. Complete instructions for installing both are available at [https://github.com/WheatonCS/Lexos/tree/master/0_InstallGuides](https://github.com/WheatonCS/Lexos/tree/master/0_InstallGuides). Just follow the instructions for your operating system.
 
 *Some notes about Python:*
+
 1. The Lexos team recommends that you install the Anaconda distribution of Python as directed in the Lexos install guide. Anaconda is easy to install and comes with most of the Python packages required by Lexos. As an added bonus, these are also the packages typically used by programmers to do text analysis.
+
 2. If you already have Python installed on your system, make sure it is version 2.7. This will work with Lexos, but you may have to install individual packages. You may prefer to install Ananconda anyway; it will work alongside other Python installations.
 
 If you have installed Lexos on your home computer, it will come with the [Lexos Test Suite](https://github.com/scottkleinman/Lexos-TestSuite). If you have not installed Lexos, you can download the necessary files with the following links: 
