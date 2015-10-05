@@ -34,6 +34,9 @@ If you have installed Lexos on your home computer, it will come with the [Lexos 
 
 * [Experiments.zip](https://github.com/scottkleinman/Lexos-TestSuite/blob/master/Experiments.zip?raw=true)
 * [malletfile.zip](https://github.com/scottkleinman/Lexos-TestSuite/blob/master/malletfile.zip?raw=true)
+* The [Glasgow Stop Word List](http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words) (use your browser's save as function to save the file as `stop_words.txt`).
+
+I also recommend downloading the [dastasets.zip](https://de.dariah.eu/tatom/_downloads/datasets.zip) data set from DARIAH-DE. We will use this for the Saturday workshop.
 
 Unzip these zip archives to a folder called `NEH-Workshop` (or a similar name).
 
@@ -45,6 +48,7 @@ Before the workshop, you should:
 
 * Download the [GUI Topic Modeling Tool](http://topic-modeling-tool.googlecode.com/files/TopicModelingTool.jar)
 * Download and install Mallet
+* If you have not already done so, download the [dastasets.zip](https://de.dariah.eu/tatom/_downloads/datasets.zip) data set from DARIAH-DE and the [Modern English stopword list](http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words) (use your browser's save as function to save the file as `stop_words.txt`)..
 
 The Programming Historian has a good tutorial with instructions for installing Mallet. Just go to [http://programminghistorian.org/lessons/topic-modeling-and-mallet](http://programminghistorian.org/lessons/topic-modeling-and-mallet) and follow the installation instructions for your system. However, the tutorial's download link for Mallet is somewhat out of date. You can get the most recent version by going to https://github.com/mimno/Mallet/archive/master.zip.
 
