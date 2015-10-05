@@ -1,5 +1,16 @@
 #Text Analysis Workshops
 
+This is a set of instructions created for the October Workshop on [Building and Strengthening Digital Humanities through a Regional Network](http://www.sd-dh.org/) at San Diego State University, Octber 23-24, 2015. I will be leading two sessions on text analysis. The first session will introduce the text analysis workflow and the Lexos text analysis tool. The second will introduce the topic modelling method, a common DH method of exploring texts. We will focus on applications for research and teaching, and one goal will be to imagine assignments based on text analysis methods that can be deployed in a variety of teaching situations.
+
+Further information abotu the two sessions is provided below, along with advance preparations you can do, such as installing software on your own computer. If you have trouble with the installation features, feel free to e-mail me at scott.kleinman@csun.edu, and I will be happy to diagnose as best as I can remotely in advance of the workshop
+
+I look forward to meeting all of you.
+
+Scott Kleinman
+California State University, Northridge
+
+*Last Update:* October 4, 2015
+
 ##Friday Workshop
 The Friday session will introduce the workflow for computational text analysis using [Lexos](http://lexos.wheatoncollege.edu). Lexos is powerful but easy to learn and highlights many of the intellectual issues digital humanists grapple with in applying computational techniques to the study of humanities data.
 
