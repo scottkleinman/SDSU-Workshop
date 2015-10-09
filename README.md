@@ -9,7 +9,7 @@ I look forward to meeting all of you.
 Scott Kleinman
 California State University, Northridge
 
-*Last Update:* October 4, 2015
+*Last Update:* October 9, 2015
 
 ##Friday Workshop
 The Friday session will introduce the workflow for computational text analysis using [Lexos](http://lexos.wheatoncollege.edu). Lexos is powerful but easy to learn and highlights many of the intellectual issues digital humanists grapple with in applying computational techniques to the study of humanities data.
@@ -47,10 +47,10 @@ The Saturday session will focus on topic modelling for text exploration. We will
 Before the workshop, you should:
 
 * Download the [GUI Topic Modeling Tool](http://topic-modeling-tool.googlecode.com/files/TopicModelingTool.jar)
-* Download and install Mallet
-* If you have not already done so, download the [dastasets.zip](https://de.dariah.eu/tatom/_downloads/datasets.zip) data set from DARIAH-DE and the [Modern English stopword list](http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words) (use your browser's save as function to save the file as `stop_words.txt`)..
+* Download and install Mallet (see below).
+* If you have not already done so, download the [dastasets.zip](https://de.dariah.eu/tatom/_downloads/datasets.zip) data set from DARIAH-DE and the [Modern English stopword list](http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words) (use your browser's save as function to save the file as `stop_words.txt`).
 
-The Programming Historian has a good tutorial with instructions for installing Mallet. Just go to [http://programminghistorian.org/lessons/topic-modeling-and-mallet](http://programminghistorian.org/lessons/topic-modeling-and-mallet) and follow the installation instructions for your system. However, the tutorial's download link for Mallet is somewhat out of date. You can get the most recent version by going to https://github.com/mimno/Mallet/archive/master.zip.
+The Programming Historian has a good tutorial with instructions for installing Mallet. Just go to [http://programminghistorian.org/lessons/topic-modeling-and-mallet](http://programminghistorian.org/lessons/topic-modeling-and-mallet) and follow the installation instructions for your system. However, the tutorial's download link for Mallet is somewhat out of date. You can get the most recent version with this [download link](http://mallet.cs.umass.edu/dist/mallet-2.0.8RC2.zip).
 
 You can run Mallet with some of texts from the Lexos Test Suite, but you may wish to bring your own to the workshop.
 
