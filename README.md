@@ -1,7 +1,7 @@
 #Text Analysis Workshops
 
 #Slides from Friday Workshop
-The slides from the Friday workshop are now available at [http://scottkleinman.github.io/revealjs-presentations/SDSUWorkshop/Text-Analysis-With-Lexos.html](http://scottkleinman.github.io/revealjs-presentations/SDSUWorkshop/Text-Analysis-With-Lexos.html). The presentation on topic modelling will be added soon.
+The slides from the Friday workshop are now available at [http://scottkleinman.github.io/revealjs-presentations/SDSUWorkshop/Text-Analysis-With-Lexos.html](http://scottkleinman.github.io/revealjs-presentations/SDSUWorkshop/Text-Analysis-With-Lexos.html). For those interested in topic modelling, slides for the Topic Modelling presentation can be found at [http://scottkleinman.github.io/revealjs-presentations/SDSUWorkshop/Topic-Modelling.html](http://scottkleinman.github.io/revealjs-presentations/SDSUWorkshop/Topic-Modelling.html).
 
 This is a set of instructions created for the October Workshop on [Building and Strengthening Digital Humanities through a Regional Network](http://www.sd-dh.org/) at San Diego State University, Octber 23-24, 2015. I will be leading two sessions on text analysis. The first session will introduce the text analysis workflow and the Lexos text analysis tool. The second will introduce the topic modelling method, a common DH method of exploring texts. We will focus on applications for research and teaching, and one goal will be to imagine assignments based on text analysis methods that can be deployed in a variety of teaching situations.
 
